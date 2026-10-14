@@ -12,12 +12,6 @@ My main interest is chip design for AI acceleration and neuromorphic computing.
 
 **Tools:** SystemVerilog, VHDL, Cadence, Xilinx Vivado and Vitis HLS, Altium Designer, Rust, Python, C/C++, Julia
 
-## Errata
-
-- Coffee is a hard dependency. Operation without it is undefined behaviour.
-- Meetings without an agenda trigger a watchdog reset.
-- Will mention that the human brain runs on 20 W in any conversation about AI power usage. You have been warned.
-
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/eric-jerman-37166634b/) | ericjerman1@gmail.com
