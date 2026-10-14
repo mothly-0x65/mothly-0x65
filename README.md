@@ -14,4 +14,4 @@ My main interest is chip design for AI acceleration and neuromorphic computing.
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/eric-jerman-37166634b/) | ericjerman1@gmail.com
+[LinkedIn](https://www.linkedin.com/in/eric-jerman-37166634b/) | ejerman@tudelft.nl
